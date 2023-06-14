@@ -1,1 +1,2 @@
-# Mumbai-House-Price-Prediction
+# Mumbai House Price Prediction
+The Mumbai Price Prediction of Homes ML project leverages machine learning techniques to forecast residential property prices in Mumbai. By analyzing historical property data and considering various factors such as location, size, amenities, and proximity to essential facilities, the project aims to provide accurate predictions. This predictive model serves as a valuable tool for real estate agents, property developers, and individuals looking to buy or sell homes in Mumbai, enabling them to make informed decisions based on market trends and property valuation.
