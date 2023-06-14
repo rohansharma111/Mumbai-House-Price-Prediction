@@ -11,4 +11,4 @@ Analysis of the Data done through ydata profiling:
 <a href="https://github.com/rohansharma111/Mumbai-House-Price-Prediction/blob/25e089f03dd61bf2f65424e8803569e0df4cf12d/analysis.html">Analysis</a>
 
 Access the full jupyter notebook here:
-<a href="https://github.com/rohansharma111/Mumbai-House-Price-Prediction/blob/97d7318947a63c7bdde1be0a26f7ae86f223473e/Mumbai1.csv">house.ipyn</a>
+<a href="https://github.com/rohansharma111/Mumbai-House-Price-Prediction/blob/dafefb40a09d680b0e5dee97f7b24aba6e9d0fff/Mumbai%20House%20Price%20Prediction.ipynb"><b>House.ipyn</b></a>
